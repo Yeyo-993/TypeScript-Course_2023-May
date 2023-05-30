@@ -1,6 +1,5 @@
 "use strict";
-const a = 10;
-let b;
-function sayHello(msg) {
-    console.log(msg);
-}
+(() => {
+    const a = 10;
+    console.log(a);
+})();
