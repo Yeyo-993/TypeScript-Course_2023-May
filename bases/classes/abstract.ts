@@ -36,7 +36,7 @@
     const printName = (character:Mutante) => {
         console.log(character.realName);
     }
-    printName(magneto)
+    // printName(magneto)
 
 
 
