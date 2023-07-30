@@ -32,7 +32,6 @@
     // const apocalipsis2 = new Apocalipsis('Soy apocalisi... el unico');
     // const apocalipsis3 = new Apocalipsis('Soy apocalisi... el unico');
 
-
     console.log(apocalipsis1, apocalipsis2, apocalipsis3);
 
 })()
