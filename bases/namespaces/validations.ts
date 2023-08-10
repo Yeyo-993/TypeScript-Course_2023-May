@@ -8,10 +8,12 @@ namespace Validations {
     }
 
     export const validateDate = (myDate: Date): boolean => {
+
         return ( isNaN( myDate.valueOf() ) ) ? false : true;
+
     }
 
 }
 
 
-console.log(Validations.validateText('Ser'))
+console.log(Validations.validateText('Ser'));
